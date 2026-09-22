@@ -27,7 +27,7 @@ tagline:
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of my favorite songs, spanning from 1920 - 1999"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: kittyf
 
 ##########
 # COLLECTION SETTINGS
